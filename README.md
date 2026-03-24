@@ -31,4 +31,4 @@ Stackwise is not a directory. It is the intelligent layer that turns the overwhe
 https://stackwise-waitlist.netlify.app/
 
 *Demo Site:*
-https://StackwiseStudio.github.io/stackwise/
+content://com.coloros.filemanager.fileprovider/root/storage/emulated/0/Download/index.html
