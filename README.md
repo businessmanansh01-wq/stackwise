@@ -1,87 +1,31 @@
-# Stackwise — SEO Content Website
+**Stackwise — The AI Tool Intelligence Platform for Small Businesses**
 
-## What's in This Folder
+Stackwise is an AI-powered matchmaking platform that helps small and medium business owners discover, evaluate, and implement the right AI tools for their specific tasks — instantly, without any technical knowledge required.
 
-```
-stackwise-website/
-  index.html                                    ← Homepage (article hub)
-  articles.css                                  ← Shared styles for all articles
-  best-ai-tool-for-cold-email-writing.html
-  best-ai-tool-for-customer-support.html
-  best-ai-tool-for-product-descriptions.html
-  best-ai-tool-for-summarising-research.html
-  best-ai-tool-for-social-media-content.html
-  best-ai-tool-for-spreadsheet-analysis.html
-  best-ai-tool-for-seo-blog-posts.html
-  best-ai-tool-for-transcribing-meetings.html
-  best-ai-tool-for-invoice-automation.html
-  best-ai-tool-for-sales-research.html
-  best-ai-tool-for-training-materials.html
-  best-ai-tool-for-proofreading.html
-  README.md                                     ← This file
-```
+The AI tool market has thousands of products. Most SMB owners either don't know the right tools exist for their problems, or waste hours researching and still make the wrong choice. Stackwise fixes this by analysing a business owner's task in plain language and returning a single, confident recommendation backed by real proof — not a generic list.
 
----
+**What Stackwise does:**
+- Analyses any business task described in plain language and matches it to the most suitable AI tool
+- Returns a match score, capability breakdown, and honest comparison against alternatives
+- Shows real results from similar businesses in the same industry and size
+- Provides a step-by-step setup guide tailored to the user's specific business type
+- Maintains a live, auto-updating database of thousands of AI tools verified for accuracy daily
 
-## How to Put This Live on the Internet (GitHub Pages)
+**Built for:**
+Retail, restaurants, e-commerce, coaching, real estate, CA firms, salons, logistics — any small business owner who wants to save time with AI but doesn't know where to start.
 
-### Step 1 — Create a GitHub Account
-Go to **github.com** and sign up for free.
+**Core technology:**
+- Multi-factor intelligent matching engine scoring tools across task fit, budget, team size, technical level, and regional availability
+- Automated tool discovery and verification pipeline monitoring 12+ sources daily
+- Dynamic ranking system aggregating real-world performance signals from verified business users
 
-### Step 2 — Create a New Repository
-- Click the **+** icon (top right) → **New repository**
-- Name it: `stackwise`
-- Set it to **Public**
-- Click **Create repository**
+**Business model:**
+Freemium SaaS with Pro (₹999/month) and Business (₹2,999/month) tiers. Additional revenue through affiliate partnerships with recommended tools.
 
-### Step 3 — Upload All Files
-- On the repository page, click **"uploading an existing file"**
-- Select ALL files from this folder (Ctrl+A / Cmd+A to select all)
-- Drag them into the upload area
-- Scroll down, click **"Commit changes"**
+**Target market:**
+63M+ Indian SMBs as primary market, with expansion planned across Southeast Asia and global English-speaking markets.
 
-### Step 4 — Enable GitHub Pages
-- Click **Settings** (top of your repository)
-- Scroll down to **Pages** in the left sidebar
-- Under **Source**, select **main** branch → **/root** → click **Save**
-- Wait 2 minutes
+Stackwise is not a directory. It is the intelligent layer that turns the overwhelming complexity of the AI tool landscape into a clear, confident, personalised path forward for every business owner — regardless of their technical background or budget.
 
-### Step 5 — Your Site is Live
-Your website is now live at:
-**https://YOUR-GITHUB-USERNAME.github.io/stackwise/**
-
----
-
-## How to Add More SEO Articles
-
-1. Generate a new article using the Stackwise SEO Generator
-2. Click **"Download HTML"** — the file downloads automatically
-3. Go to your GitHub repository
-4. Click **"Add file"** → **"Upload files"**
-5. Drag the downloaded HTML file in
-6. Click **"Commit changes"**
-7. The new article is live within 60 seconds
-
-The homepage (index.html) already has a card for every article. To add a new
-card to the homepage for new articles you generate, open index.html in any
-text editor, find the ARTICLES array in the JavaScript section, and add a new
-object following the same format as the existing ones.
-
----
-
-## Your Waitlist Link
-All articles link to: **https://stackwise-waitlist.netlify.app/**
-Every article has 3 "Join Waitlist" buttons — top, middle, and bottom.
-
----
-
-## To Add a Custom Domain (e.g. stackwise.com)
-1. Buy your domain at namecheap.com or porkbun.com (~₹800–1200/yr)
-2. In GitHub Settings → Pages → Custom domain → type your domain
-3. In your domain registrar, add a CNAME record pointing to:
-   `YOUR-USERNAME.github.io`
-4. Your site is live at your custom domain within 24 hours
-
----
-
-Built by Stackwise · March 2026
+*Built by Stackwise Labs. Currently in development — waitlist open:*
+https://stackwise-waitlist.netlify.app/
