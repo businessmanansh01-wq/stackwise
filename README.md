@@ -27,5 +27,5 @@ Freemium SaaS with Pro (₹999/month) and Business (₹2,999/month) tiers. Addit
 
 Stackwise is not a directory. It is the intelligent layer that turns the overwhelming complexity of the AI tool landscape into a clear, confident, personalised path forward for every business owner — regardless of their technical background or budget.
 
-*Built by Stackwise Labs. Currently in development — waitlist open:*
+*Built by StackwiseStudio. Currently in development — waitlist open:*
 https://stackwise-waitlist.netlify.app/
