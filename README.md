@@ -29,3 +29,6 @@ Stackwise is not a directory. It is the intelligent layer that turns the overwhe
 
 *Built by StackwiseStudio. Currently in development — waitlist open:*
 https://stackwise-waitlist.netlify.app/
+
+*Demo website available:*
+https://StackwiseStudio.github.io/stackwise/
